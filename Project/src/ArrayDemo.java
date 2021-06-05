@@ -18,11 +18,6 @@ public  class ArrayDemo {
                 System.out.println(breakfast[i]);
             }
         }
-        System.out.println("Checking GIT");
-        System.out.println("Checking GIT");
-        System.out.println("Checking GIT");
-        System.out.println("Checking GIT");
-        System.out.println("Checking GIT");
 
     }
 }
