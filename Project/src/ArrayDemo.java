@@ -23,6 +23,7 @@ public class ArrayDemo {
 
     public static void main(String[] args) {
         ArrayDemo a1 = new ArrayDemo();
+        ArrayDemo a2 = new ArrayDemo();
         a1.setArray();
         a1.getArray();
     }
